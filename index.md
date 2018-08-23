@@ -7,6 +7,7 @@ title: Example
 
 ## News
 
+- Great News!
 - Some event
 - Another exciting event
 - More news
